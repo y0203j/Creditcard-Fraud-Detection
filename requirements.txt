@@ -1,0 +1,13 @@
+scikit-learn
+matplotlib
+pandas
+numpy
+seaborn
+scipy
+xgboost
+imblearn
+ydata-profiling
+sweetviz
+setuptools
+missingno
+joblib

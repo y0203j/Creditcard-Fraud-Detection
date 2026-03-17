@@ -1,0 +1,6 @@
+ml12/
+venv/
+env/
+__pycache__/
+*.pyc
+*.csv
