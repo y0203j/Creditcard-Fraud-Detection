@@ -168,7 +168,7 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 notebooks/fraud_detection_analysis.ipynb
-
+```
 ---
 
 # Future Improvements
@@ -182,4 +182,4 @@ Potential enhancements include:
 ---
 
 
-JY
+Author:JY
