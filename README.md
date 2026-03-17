@@ -148,11 +148,6 @@ This structure enables easy integration into downstream systems or reporting too
 
 ---
 
-# Project Structure
-
-
----
-
 # Technologies Used
 
 - Python
